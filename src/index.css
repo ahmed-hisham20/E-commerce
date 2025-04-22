@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.headers-title {
+    font-size: 30px;
+    color:#6B7280;
+    padding-bottom: 20px;
+    font-weight: 600;
+  }
