@@ -10,4 +10,5 @@ export default defineConfig({
     tailwindcss()
   ],
   assetsInclude: ['**/*.jpg', '**/*.png', '**/*.svg', '**/*.webp','**/*.jpeg'],
+  base: '/E-commerce/',
 })

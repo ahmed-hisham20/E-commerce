@@ -50,9 +50,9 @@ export default function Navbar() {
                                 </NavLink>
 
                                 {/* favs counter  */}
-                                <span className="absolute -top-2 -right-2 bg-red-600 text-white text-xs font-bold px-2 py-0.5 rounded-full">
+                                {/* <span className="absolute -top-2 -right-2 bg-red-600 text-white text-xs font-bold px-2 py-0.5 rounded-full">
                                     5
-                                </span>
+                                </span> */}
                             </div>
 
 
